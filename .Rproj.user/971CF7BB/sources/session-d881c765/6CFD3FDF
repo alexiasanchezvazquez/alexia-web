@@ -3,7 +3,7 @@
     "path": "~/Documents/alexia-web/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "3419945540",
     "contents": "",
     "dirty": false,
     "created": 1793628237903.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "53,3",
-        "scrollLine": "33"
+        "cursorPosition": "31,3",
+        "scrollLine": "21"
     },
     "folds": "",
-    "lastKnownWriteTime": 1793628751,
+    "lastKnownWriteTime": 1793629834,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1793628751656,
+    "last_content_update": 1793629834475,
     "read_only": false,
     "read_only_alternatives": []
 }

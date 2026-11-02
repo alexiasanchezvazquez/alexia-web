@@ -1,6 +1,6 @@
 ---
 title: "Alexia Sánchez-Vázquez"
-subtitle: "Research Intern, Deutsche Bundesbank"
+subtitle: "PhD Student, Universidade de Santiago de Compostela<br>Research Intern, Deutsche Bundesbank"
 image: files/portada_web.png
 about:
   template: trestles
@@ -25,6 +25,11 @@ about:
 Household finance · Applied macroeconomics · Liquid buffers
 
 ## Education
+
+::: {.cv-entry}
+**PhD in Economic Analysis and Business Strategy**, Universidade de Santiago de Compostela
+[2026–present]{.cv-date}
+:::
 
 ::: {.cv-entry}
 **MSc in Economics**, Universidad Carlos III de Madrid
