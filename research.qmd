@@ -4,7 +4,8 @@ title: "Research"
 ## Work in Progress
 
 ::: {.pub}
-[Title of the project]{.pub-title}  
+[Smoothing at Whose Expense?]{.pub-title}  
+[Alexia Sánchez-Vázquez]{.pub-meta}
 :::
 
 ## Theses
