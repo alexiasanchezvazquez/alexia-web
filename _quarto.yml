@@ -16,7 +16,7 @@ website:
         text: Research
       - href: teaching.qmd
         text: Teaching
-      - href: files/cv_sanchez_vazquez.pdf
+      - href: files/cv.pdf
         text: CV
   page-footer:
     center: "© 2026 Alexia Sánchez-Vázquez"
